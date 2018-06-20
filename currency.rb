@@ -1,6 +1,5 @@
 # Write your cod here
 def usd_to_eur
-  money = 10
   puts money * 0.83
 end
 
