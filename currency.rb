@@ -1,6 +1,6 @@
 # Write your cod here
 def usd_to_eur("Dollars")
-  dollars = 10
+  dollars = 1.2
   puts dollars * 0.83
 end
 
