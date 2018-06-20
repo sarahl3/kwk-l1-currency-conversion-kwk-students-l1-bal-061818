@@ -1,7 +1,7 @@
 # Write your cod here
 money = 10
 def usd_to_eur
-  money = money * .83
+  money = money * 0.83
 end
 
 
