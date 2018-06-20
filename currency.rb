@@ -8,5 +8,6 @@ end
 def eur_to_usd
   puts money * 1.2
 end
+def 
 usd_to_eur
 eur_to_usd
