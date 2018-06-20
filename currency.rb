@@ -6,6 +6,7 @@ end
 
 
 def eur_to_usd
+  euros = 1
   puts money * 1.2
 end
 def 
