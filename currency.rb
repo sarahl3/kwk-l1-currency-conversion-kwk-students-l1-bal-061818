@@ -6,5 +6,4 @@ end
 
 
 def eur_to_usd
-  euro= 1
-  dollar = 1.2
+  
