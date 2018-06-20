@@ -1,6 +1,6 @@
 # Write your cod here
-money = 10
 def usd_to_eur
+  money = 10
   puts money * 0.83
 end
 
